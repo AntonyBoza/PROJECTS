@@ -1,2 +1,1 @@
-# WAKU_PROJECTS
-Proyectos desarrollados en Waku, Casa de Software
+#Projects developed by myself or in colaboration
